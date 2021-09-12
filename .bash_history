@@ -190,3 +190,129 @@ git merge sample_branch
 git push -u orgin sample_branch
 history
 exit
+git clone https://github.com/kandhanj83/CCP_test99.git
+ls -lrt
+cd CCP_test99
+ls -lrt
+vi README.md
+git remove -v
+git remote -v
+ls
+vi README.md
+git remote add upstream https://github.com/kandhanj83/CCP_test99.git
+git remote -v
+git push README.md
+git push
+git pull
+ls -lrt
+vi README.md
+cat README.md
+pwd
+cd /
+ls
+cd --
+ls
+pwd
+mkdir samplejava
+vi hello.java
+ls -lrt
+git init
+git add .
+git commit -m "Add new files"
+pwd
+git remote add orgin https://github.com/kandhanj83/CCP_test99.git
+git push -u orgin master
+cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+cat /var/lib/jenkins/workspace/firstmaven/pom.xml
+exit
+cd /usr/lob
+cd /usr/lib
+ls
+cd jvm
+ls
+cd /var/lib/jenkins/workspace/firstmaven/pom.xml
+cd java-8-openjdk-amd64
+cd /usr/share
+ls
+cd maven
+ls
+cd /usr/lib
+l
+ls
+cd git*
+ls
+cd git
+ls git*
+exit
+pwd
+ls
+cd CCP_test99
+ls
+cd ..
+mv samplejava ./CCP_test99
+ls 
+mv hello.java ./CCP_test99
+ls
+cd CCP_test99
+ls
+vi hello.java
+git init
+git add
+git add .
+git commit -m "New java file"
+git remote add orgin https://github.com/kandhanj83/CCP_test99.git
+git push -u orgin master
+git push -u origin master 
+pwd
+mv hello.java ./
+cd ..
+ls
+cp ./CCP_test99 ./
+cp ./CCP_test99/hello.java ./
+ls
+cp hello.java ./Test_999
+cd Test_999
+ls
+git init
+git add .
+git commit -m "added java file"
+git push -u origin master 
+git push -u origin 
+pwd
+cd CCP_test
+ls
+cd ..
+ls
+cd CCP_test99
+ls
+git init 
+git add .
+git commit -m "added java 1207"
+git remote add orgin https://github.com/kandhanj83/CCP_test99.git
+git push -u orgin
+java -version
+unlock jenkins
+cat /var/
+cd /var
+ls
+cd run
+ls
+cd jenkins
+ls
+cd ..
+cd /var/lib/jenkins/secrets
+cd /
+cd /var
+ls
+cd lob
+cd lib
+cd jenkins
+ls
+ls -lrt
+cd secrets
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+mvn -version
+java -version
+java_home
